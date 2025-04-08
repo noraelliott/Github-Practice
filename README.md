@@ -1,3 +1,6 @@
-# Git Conflict Playground
+# Advanced Git Demo - Git Playground
 
-Here we simulate multiple branches with conflicting changes.
+This project explores advanced Git workflows including:
+- Merge conflicts
+- Rebasing
+- Branching strategies
